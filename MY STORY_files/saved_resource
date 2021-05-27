@@ -1,0 +1,46 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+if (window['google'] != undefined && window['google']['loader'] != undefined) {
+if (!window['google']['elements']) {
+window['google']['elements'] = {};
+google.elements.Version = '1.0';
+google.elements.JSHash = '7ded0ef8ee68924d96a6f6b19df266a8';
+google.elements.LoadArgs = 'file\x3delements\x26v\x3d1\x26packages\x3dtransliteration';
+}
+google.loader.writeLoadTag("css", google.loader.ServiceBase + "/api/elements/1.0/7ded0ef8ee68924d96a6f6b19df266a8/transliteration.css", false);
+google.loader.writeLoadTag("script", google.loader.ServiceBase + "/api/elements/1.0/7ded0ef8ee68924d96a6f6b19df266a8/transliteration.I.js", false);
+}
+
+
+}
+/*
+     FILE ARCHIVED ON 01:10:53 Sep 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:27:41 May 13, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 990.086
+  exclusion.robots: 0.115
+  exclusion.robots.policy: 0.107
+  RedisCDXSource: 1.112
+  esindex: 0.013
+  LoadShardBlock: 213.414 (3)
+  PetaboxLoader3.datanode: 229.936 (5)
+  CDXLines.iter: 92.093 (3)
+  load_resource: 713.823 (2)
+  PetaboxLoader3.resolve: 682.556 (2)
+*/

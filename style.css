@@ -1,0 +1,65 @@
+h1{
+    color:  YELLOW;
+}
+
+title{
+    font color:yellow
+}
+
+P{
+    FONT color:RED;
+}
+
+p{
+    font color:RED;
+    font: size 20px;
+}
+*{border:solid}
+body{
+    background-color: rgb(200,200,200);
+}
+/*   . this means class selector.*/
+.games{
+    display:flex;
+    flex-wrap:wrap;
+    background-color:blue;
+} 
+
+h1{
+    justify-content: center;
+    align-self: center;
+    /* align-items: center; */
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+     justify-content: center;
+    align-self: center;
+    /* align-items: center; */
+    font-weight: bold;
+    text-align: center;
+}
+
+ .item{ 
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+    
+ } 
+
+ p{
+       justify-content: center;
+    align-self: center;
+    align-items: center;
+    font-weight: bold;
+    text-align: center;
+    
+ }
+
+ a img:hover{
+    opacity: 1;
+    transform:scale(1.5)
+}
